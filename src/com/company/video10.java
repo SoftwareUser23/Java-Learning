@@ -20,6 +20,8 @@ public class video10 {
         System.out.println(i);
         System.out.println("Decrements\n");
         int d = 46;
+
+//        /#6f90ba    383747
         System.out.println(d);
         System.out.println(--d);
         System.out.println(d--);

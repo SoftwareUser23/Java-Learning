@@ -1,0 +1,17 @@
+{
+
+    
+    "editor.fontFamily": "Inconsolata",
+    "editor.fontWeight": "500",
+    "editor.fontSize": 15,
+    "editor.lineHeight": 22,
+    "editor.fontLigatures": true,
+    "editor.rulers": [100],
+    "editor.insertSpaces": true,
+    "editor.autoClosingBrackets": true,
+    "extensions.autoUpdate": true,
+    "window.zoomLevel": 0,
+    "eslint.autoFixOnSave": true,
+    "editor.tabSize": 2,
+    "terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe"
+}
