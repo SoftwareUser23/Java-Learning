@@ -101,8 +101,6 @@ public class video25 {
         }
         System.out.println("Question11 end");
 
-
-
     }
 
 }
